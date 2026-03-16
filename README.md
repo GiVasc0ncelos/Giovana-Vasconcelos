@@ -5,7 +5,7 @@ Estudante de TI no 1º semestre, dando os primeiros passos e "engatinhando" com 
 ### O que estou aprendendo agora:
 * **Lógica de Programação:** Praticando algoritmos e C no **Dev-C++** ⚙️
 * **Desenvolvimento Web:** Estudando as estruturas iniciais de **HTML** no **VS Code**
-* **Comunicação Corporativa:**Fundamentos da comunicação no contexto empresarial e pessoal nas relações de trabalho.*
+* **Comunicação Corporativa:** Fundamentos da comunicação no contexto empresarial e pessoal nas relações de trabalho.
 * **
 
 ### 🌎 Idiomas:
